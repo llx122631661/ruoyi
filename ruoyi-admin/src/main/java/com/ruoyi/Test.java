@@ -14,6 +14,7 @@ public class Test {
         }
         for (String s : b) {
             System.out.println(s);
+            System.out.println("测试增加");
         }
     }
 }
