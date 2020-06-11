@@ -10,6 +10,7 @@ public class Test {
             System.out.println(b[i]+"-------------");
             System.out.println(b[i]+"hahahhah");
             System.out.println(b[i]+"-------------");
+            System.out.println(b[i]+"------修改了------");
         }
         for (String s : b) {
             System.out.println(s);
