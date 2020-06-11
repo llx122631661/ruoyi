@@ -16,6 +16,7 @@ public class Test {
             System.out.println(s);
             System.out.println("测试增加");
             System.out.println("测试增加222");
+            System.out.println("测试增加222");
         }
     }
 }
